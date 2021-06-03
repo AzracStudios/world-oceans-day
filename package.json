@@ -9,5 +9,7 @@
   "keywords": [],
   "author": "Azrac Studios",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "netlify-cli": "^3.34.0"
+  }
 }
