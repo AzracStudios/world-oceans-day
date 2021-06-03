@@ -293,6 +293,7 @@
 
 .desktop-wrapper .content .gallery .card .content-wrapper {
   margin-left: 20px;
+  width: 90%;
 }
 
 .desktop-wrapper .content .gallery .card .title {
@@ -308,7 +309,7 @@
   line-height: 25px;
   margin-top: 20px;
   font-size: 19px;
-  width: 90%;
+  width: 40%;
   padding-bottom: 30px;
 }
 

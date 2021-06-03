@@ -316,7 +316,9 @@ $contentColor: #53b7b7;
 
         .content-wrapper {
           margin-left: 20px;
+          width: 90%;
         }
+
         .title {
           margin-top: 20px;
           color: $titleColor;
@@ -330,7 +332,7 @@ $contentColor: #53b7b7;
           line-height: 25px;
           margin-top: 20px;
           font-size: 19px;
-          width: 90%;
+          width: 40%;
           padding-bottom: 30px;
         }
       }
