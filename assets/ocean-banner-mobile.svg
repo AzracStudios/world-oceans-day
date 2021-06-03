@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="416.952" height="576.414" viewBox="0 0 416.952 576.414">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#69e4ed"/>
+      <stop offset="1" stop-color="#edfeff"/>
+    </linearGradient>
+  </defs>
+  <g id="ocean-banner-mobile" transform="translate(-0.025)">
+    <path id="Path_1" data-name="Path 1" d="M-.093,0V576.414S29.9,515.073,44.536,496.975s112.655-80.958,184.9,0,177.741,25.334,184.446,15.174,0-94.857,0-94.857V0Z" transform="translate(0.118)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.mobile-wrapper {
+  display: none;
+}
+
+body {
+  overflow-x: hidden;
+  background-color: #f0feff;
+}
+
+@media only screen and (max-width: 800px) {
+  .mobile-wrapper {
+    display: block;
+  }
+
+  .desktop-wrapper {
+    display: none;
+  }
+}
