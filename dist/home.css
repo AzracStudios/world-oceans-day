@@ -27,6 +27,10 @@
   }
 }
 
+* {
+  font-family: Verdana, sans-serif;
+}
+
 .mobile-wrapper .banner-container .banner {
   width: 110vw;
   transform: translateY(-100%);
